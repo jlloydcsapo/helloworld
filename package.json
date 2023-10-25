@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlloydcsapo/helloworld.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Josh Csapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlloydcsapo/helloworld/issues"
+  },
+  "homepage": "https://github.com/jlloydcsapo/helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expresss": "^0.0.0"
+  }
+}
